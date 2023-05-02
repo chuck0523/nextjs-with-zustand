@@ -1,0 +1,11 @@
+/**
+* アプリケーション全体で利用する変数の定義
+*/
+$primary-color: #64ff00;
+
+/**
+* JS向けexport
+*/
+:export {
+  primaryColor: $primary-color;
+}
